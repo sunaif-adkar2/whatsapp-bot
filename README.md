@@ -115,3 +115,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 - [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sunaif-adkar-899645293" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sunaif-adkar-899645293?trk=profile-badge">Sunaif Adkar</a></div>
+              
